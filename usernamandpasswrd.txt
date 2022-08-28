@@ -1,2 +1,0 @@
-username: basim
-password: 46RC7bCJgd9LXOba
